@@ -18,8 +18,7 @@
 
 # 📖 School Library<a name="about-project"></a>
 
-**School Library** 
-[School Library] is an app that was built with Ruby using OOP principles. The app allow you to add new students, teachers, books and save records of who borrowed a given book and when..
+**School Library**  is an app that was built with Ruby using OOP principles. The app allow you to add new students, teachers, books and save records of who borrowed a given book and when..
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
@@ -27,7 +26,7 @@
 <details>
   <summary>Ruby</summary>
   <ul>
-    <li><a href="ruby-lang.org/en/">React.Js</a></li>
+    <li><a href="ruby-lang.org/en/">Ruby</a></li>
   </ul>
 </details>
 
