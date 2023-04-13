@@ -38,7 +38,7 @@ class Main
     when 5
       res.create_rental
     when 6
-      res.list_rental_of_person
+      res.list_rentals_of_person
     when 7
       puts 'Thank you for using this app!'
       exit
