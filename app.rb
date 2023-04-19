@@ -21,7 +21,6 @@ class App
     else
       @books.each do |each_book|
         puts "Title: \"#{each_book.title}\", Author: \"#{each_book.author}\""
-        
       end
     end
   end
