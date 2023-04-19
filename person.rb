@@ -29,5 +29,10 @@ class Person < Nameable
     of_age? || @parent_permission
   end
 
+  def add_rental(rental)
+    @rental ||= []
+    @rental << rental
+  end
+
   private :of_age?
 end
