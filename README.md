@@ -159,6 +159,13 @@ Example command:
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
+## 🤝 Future Features <a name="future-features"></a>
+-  [Set up associations]
+-  [Add basic UI]
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
 <!-- CONTRIBUTING -->
 
 ## 🤝 Contributing <a name="contributing"></a>
